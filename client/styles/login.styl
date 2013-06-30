@@ -1,0 +1,102 @@
+@import 'nib'
+
+.intro-form
+  transition 0.2s opacity ease-out, 0.2s top ease-out
+
+  & input[type='submit']
+    margin 5px 0
+
+  & input[type='text']
+  & input[type='password']
+  & input[type='email']
+    margin 5px 0
+
+    &#login-password
+      width 75%
+      margin-right 0px
+
+  &.login
+
+    & a
+      padding-top 8px
+      padding-left 2px
+      font-size 10px
+      display inline-block
+      clear both
+      color #888
+
+  &.register
+
+  &.password-form
+    transition 0.2s opacity ease-out, 0.2s -webkit-transform ease-out
+    pointer-events none
+    opacity 0
+    transform scale3d(0.001, 0.001, 1)
+    z-index 1
+
+  & .wrapper
+    float left
+
+div.password
+  
+  & .password-form
+    display block
+    transform scale3d(1, 1, 1)
+    pointer-events auto
+    opacity 1
+
+  & .register
+    opacity 0.3
+    absolute top 270px left 0px
+    pointer-events none
+
+  & .login
+    absolute top -40px left 0px
+    opacity 0.3
+    pointer-events none
+
+a.watch-video
+  display block
+  position relative
+  opacity 1
+  transition opacity .3s
+
+  &:hover
+    opacity 0.8
+
+a.watch-video:before
+  background-image url('/images/intro-play.png')
+  background-repeat no-repeat
+  position absolute
+  top 50%
+  left 50%
+  width 70px
+  height 70px
+  margin-top -35px
+  margin-left -35px
+  content ''
+
+ul.footer
+  padding-left 0
+  margin-top 50px
+  text-align center
+  list-style-type none
+
+  & li
+    display inline-block
+    padding-right 10px
+    padding-left 10px
+    border-right 1px solid #ccc
+
+    & a
+      color #bbb
+
+  & li:last-child
+    border-right none
+
+#loading-wrapper canvas
+  margin-top 3px
+
+.intro-form.services button
+  margin 4px 0
+  width 32%
