@@ -7,5 +7,5 @@
 
     bmcmahen/Subtitles:
       Easily create subtitles (SRT files) in your web browser.
-       72 commits, 52 stars, 9 forks
+       72 commits, 53 stars, 9 forks
 <!-- PROJECTS_LIST_END -->
