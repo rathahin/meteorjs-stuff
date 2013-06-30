@@ -1,1 +1,2 @@
+https://github.com/bmcmahen/cast.git
 https://github.com/bmcmahen/Subtitles.git
