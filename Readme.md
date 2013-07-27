@@ -5,11 +5,11 @@
 
     bmcmahen/cast:
       For creating animated grid layouts given an array of attributes.
-       30 commits, last change: 2013-05-03 09:54:23, 4 stars, 0 forks
+       30 commits, last change: 2013-05-03 09:54:23, 5 stars, 0 forks
 
     bmcmahen/Subtitles:
       Easily create subtitles (SRT files) in your web browser.
-       72 commits, last change: 2013-05-17 13:50:33, 55 stars, 9 forks
+       72 commits, last change: 2013-05-17 13:50:33, 55 stars, 10 forks
 
     mcrider/azimuth:
       Azimuth is a simple, elegant, and fast CMS built using meteor.js.
