@@ -10,4 +10,8 @@
     bmcmahen/Subtitles:
       Easily create subtitles (SRT files) in your web browser.
        72 commits, last change: 2013-05-17 13:50:33, 55 stars, 9 forks
+
+    mcrider/azimuth:
+      Azimuth is a simple, elegant, and fast CMS built using meteor.js.
+       141 commits, last change: 2013-07-19 01:33:02, 80 stars, 19 forks
 <!-- PROJECTS_LIST_END -->
