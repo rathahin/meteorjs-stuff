@@ -1,2 +1,3 @@
 https://github.com/bmcmahen/cast.git
 https://github.com/bmcmahen/Subtitles.git
+https://github.com/mcrider/azimuth.git
