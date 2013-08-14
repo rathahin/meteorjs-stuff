@@ -1,0 +1,12 @@
+{
+  "meteor": {},
+  "packages": {
+    "router": {},
+    "momentjs": {},
+  	"database-forms": {
+  		"git":"git://github.com/SachaG/database-forms.git"
+  	},
+    "paginated-subscription": {},
+    "crypto-md5": {}
+  }
+}
