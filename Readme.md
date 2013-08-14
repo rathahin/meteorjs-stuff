@@ -42,6 +42,9 @@
   - [How to use Laika testing framework for Meteor on Ubuntu 13.04](http://task3.cc/1880/how-to-use-laika-testing-framework-for-meteor-on-ubuntu-13-04/)
 
 
+### SEO
+  - https://www.eventedmind.com/posts/meteor-the-spiderable-package
+
 ### Performance/Scaling:
   - http://meteorhacks.com/lets-scale-meteor.html
 
