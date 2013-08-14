@@ -11,8 +11,9 @@
   - http://meteorhacks.com/lets-scale-meteor.html
 
 ## Videos:
-    - [MeteorVideos Channel](http://www.youtube.com/user/MeteorVideos/videos)
-    - [Scaling Meteor with Smart Collections](http://www.youtube.com/watch?v=ctSd9VXvp_0)
+
+  - [MeteorVideos Channel](http://www.youtube.com/user/MeteorVideos/videos)
+  - [Scaling Meteor with Smart Collections](http://www.youtube.com/watch?v=ctSd9VXvp_0)
 
 
 ## Resources:
@@ -33,6 +34,9 @@
 ## Slides:
   - http://www.slideshare.net/hotrannam/building-real-time-web-apps-with-meteor
 
+
+## Books
+  - http://www.discovermeteor.com/packages
 
 ## Examples
   - [Build Your Own Trello](http://www.slideshare.net/daikeren/build-your-own-trello)
