@@ -1,51 +1,53 @@
-# Meteorjs stuff
+## Meteorjs stuff
 
+
+### Tutorials
+  - https://tutsplus.com/course/building-single-page-web-application-with-meteor-js/
+  - http://net.tutsplus.com/tutorials/javascript-ajax/building-ribbit-in-meteor/
+  - http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/
+  - http://www.slideshare.net/hotrannam/building-real-time-web-apps-with-meteor
+  - [Build Your Own Trello](http://www.slideshare.net/daikeren/build-your-own-trello)
+
+
+### Resources:
   - https://www.eventedmind.com/posts/
   - http://meteorhacks.com/
-
-  - http://meteorhacks.com/introducing-smart-collections.html
-  - https://www.eventedmind.com/posts/meteor-liveresultsset
-
-
-## Performance/Scaling:
-  - http://meteorhacks.com/lets-scale-meteor.html
-
-## Videos:
-
-  - [MeteorVideos Channel](http://www.youtube.com/user/MeteorVideos/videos)
-  - [Scaling Meteor with Smart Collections](http://www.youtube.com/watch?v=ctSd9VXvp_0)
-
-
-## Resources:
   - https://github.com/EventedMind
   - http://docs.meteor.com/
   - https://twitter.com/meteorjs
   - [Packages - Atmosphere](https://atmosphere.meteor.com/)
   - [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq.git)
 
-## UI
-  - [David Greenspan: Meteor UI - Reactive Components](http://www.youtube.com/watch?v=pGQ-ax5cFnk)
+### Videos:
 
-## Tutorials
-  - https://tutsplus.com/course/building-single-page-web-application-with-meteor-js/
-  - http://net.tutsplus.com/tutorials/javascript-ajax/building-ribbit-in-meteor/
-  - http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/
-
-## Slides:
-  - http://www.slideshare.net/hotrannam/building-real-time-web-apps-with-meteor
+  - [MeteorVideos Channel](http://www.youtube.com/user/MeteorVideos/videos)
+  - [Scaling Meteor with Smart Collections](http://www.youtube.com/watch?v=ctSd9VXvp_0)
 
 
-## Books
-  - http://www.discovermeteor.com/packages
-
-## Examples
-  - [Build Your Own Trello](http://www.slideshare.net/daikeren/build-your-own-trello)
-
-
-## Security:
+### Security:
   - http://security-resources.meteor.com/
   - http://www.slideshare.net/emilystark/meteor-meets-mallory
   - [Emily Stark: Meteor Meets Mallory -- Devshop 6 Tech Talk](http://www.youtube.com/watch?v=79uMp-S23MA)
+
+
+### UI
+  - [David Greenspan: Meteor UI - Reactive Components](http://www.youtube.com/watch?v=pGQ-ax5cFnk)
+
+
+## Performance/Scaling:
+  - http://meteorhacks.com/lets-scale-meteor.html
+
+
+### Posts:
+  - http://meteorhacks.com/introducing-smart-collections.html
+  - https://www.eventedmind.com/posts/meteor-liveresultsset
+
+
+
+### Books
+  - http://www.discovermeteor.com/packages
+
+
 
 
 
