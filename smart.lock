@@ -1,0 +1,96 @@
+{
+  "meteor": {
+    "git": "https://github.com/peerlibrary/meteor.git",
+    "branch": "peerlibrary",
+    "commit": "e7aa118cb9c5c6d6b6faacc5d896abf112a585f7"
+  },
+  "dependencies": {
+    "basePackages": {
+      "router": {},
+      "pdf.js": {},
+      "jquery-ui": {},
+      "assert": {},
+      "aws-sdk": {},
+      "tar": {},
+      "blocking": {},
+      "moment": {},
+      "xml2js": {},
+      "util": {},
+      "dimsum": {},
+      "connect": {},
+      "urlify2": {}
+    },
+    "packages": {
+      "router": {
+        "git": "https://github.com/tmeasday/meteor-router.git",
+        "tag": "v0.5.1",
+        "commit": "32e377c7703bb119acccc859fc7296882903cbe7"
+      },
+      "pdf.js": {
+        "git": "https://github.com/peerlibrary/meteor-pdf.js.git",
+        "tag": "v0.8.298.1",
+        "commit": "6ac181e4bd7c5ed160ff1d7fe0d9e7c66ef3e656"
+      },
+      "jquery-ui": {
+        "git": "https://github.com/TimHeckel/meteor-jquery-ui.git",
+        "tag": "v1.9.2",
+        "commit": "c437d45edcf1367df8d5ffa8bad2867758030bd2"
+      },
+      "assert": {
+        "git": "https://github.com/peerlibrary/meteor-assert.git",
+        "tag": "v0.2.1",
+        "commit": "141b2408fcc8dd798a729cbdfb09b2c77145fa2e"
+      },
+      "aws-sdk": {
+        "git": "https://github.com/peerlibrary/meteor-aws-sdk.git",
+        "tag": "v1.3.1.1",
+        "commit": "13d44f5a9a9d729ee9b478cfac283fc213b9493d"
+      },
+      "tar": {
+        "git": "https://github.com/peerlibrary/meteor-tar.git",
+        "tag": "v0.1.17.1",
+        "commit": "6101d1cfbd8b9b9a8cde89b2d55b8e13a7af1ca8"
+      },
+      "blocking": {
+        "git": "https://github.com/peerlibrary/meteor-blocking.git",
+        "tag": "v0.3.0",
+        "commit": "4688975e9b73ff5ad459858dbbe8ca66394c7375"
+      },
+      "moment": {
+        "git": "https://github.com/possibilities/meteor-moment.git",
+        "tag": "v1.7.0",
+        "commit": "c64b6ec0e714b9556f4b6643d430b868ba69d3d7"
+      },
+      "xml2js": {
+        "git": "https://github.com/peerlibrary/meteor-xml2js.git",
+        "tag": "v0.2.8.1",
+        "commit": "18be7da2a5893e74cbef225eb38773929235ace3"
+      },
+      "util": {
+        "git": "https://github.com/peerlibrary/meteor-util.git",
+        "tag": "v0.2.0",
+        "commit": "56b887b340865e2b6be046610299803d057803c3"
+      },
+      "dimsum": {
+        "git": "https://github.com/peerlibrary/meteor-dimsum.git",
+        "tag": "v0.1.8.1",
+        "commit": "5aec5c1b82ccdaa877be8f66a1009d0a10a08a28"
+      },
+      "connect": {
+        "git": "https://github.com/peerlibrary/meteor-connect.git",
+        "tag": "v2.8.0.1",
+        "commit": "3753d9426213cb8ad97029f0bb497342546199ee"
+      },
+      "urlify2": {
+        "git": "https://github.com/peerlibrary/meteor-urlify2.git",
+        "tag": "v0.1.0",
+        "commit": "da50147811c03084f1a52c70b6946de6bd27b27d"
+      },
+      "page-js-ie-support": {
+        "git": "https://github.com/tmeasday/meteor-page-js-ie-support.git",
+        "tag": "v1.3.5",
+        "commit": "b99ed8380aefd10b2afc8f18d9eed4dd0d8ea9cb"
+      }
+    }
+  }
+}

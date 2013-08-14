@@ -1,0 +1,82 @@
+<template name="results">
+  <div class="row">
+    <div class="results-list col12">
+      <div class="clearfix"></div>
+      {{> resultsCount}}
+      <ol class="item-list">
+        {{#each publications}}
+          {{> publicationEntry}}
+        {{/each}}
+      </ol>
+      {{> searchAvailable}}
+      {{> noResults}}
+    </div>
+    {{> refineSearch}}
+  </div>
+</template>
+
+<template name="resultsCount">
+  {{#if publications}}
+    <div class="results-count">Found {{publications}} publications</div>
+  {{/if}}
+  {{#if people}}
+    <div class="results-count">Found {{people}} people</div>
+  {{/if}}
+</template>
+
+<template name="searchAvailable">
+  {{#if display}}
+    <div class="search-available">Search {{publications}} publications and {{people}} people</div>
+  {{/if}}
+</template>
+
+<template name="noResults">
+  {{#if noResults}}
+    <div class="no-results">No publications or people found</div>
+  {{/if}}
+</template>
+
+<template name="refineSearch">
+  {{#if display}}
+    <div class="col4 push12 search-refine">
+      <h3>Refine Search</h3>
+      <form action="/" method="GET">
+        <span class="filter">
+          <label for="title">Title contains</label>
+          <input type="text" id="title" />
+        </span>
+        <span class="filter">
+          <label for="abstract">Abstract contains</label>
+          <input type="text" id="abstract" />
+        </span>
+        <span class="filter">
+          <label for="author">Author(s)</label>
+          <input type="text" id="author" />
+        </span>
+        <span class="filter">
+          <label for="topics">Topics</label>
+          <select type="text" id="topics" data-placeholder="Select topic(s)" multiple class="chzn">
+            <option value=""></option>
+            <option>Computer Science</option>
+            <option>Biology</option>
+            <option>Physics</option>
+            <option>Chemistry</option>
+            <option>Philosophy</option>
+            <option>Mathematics</option>
+            <option>Political Science</option>
+            <option>Big Data</option>
+            <option>HTML5 Nanotechnology</option>
+            <option>Bitcoin Casino</option>
+            <option>Robot Circus</option>
+          </select>
+        </span>
+        <span class="filter">
+          <label for="pub-date" class="label-slider">Publication year</label>
+          <input type="text" id="pub-date" disabled />
+          <div class="clearfix"></div>
+          <div id="date-range"></div>
+        </span>
+      </form>
+    </div>
+  {{/if}}
+</template>
