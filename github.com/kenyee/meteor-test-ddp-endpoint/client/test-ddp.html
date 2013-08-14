@@ -1,0 +1,23 @@
+<head>
+  <title>test-ddp DDP Protocol Unit Test Endpoint</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+ <div class="well">
+  {{> main}}
+ </div>
+</body>
+
+<template name="main">
+  <h1>DDP Protocol Unit Test Endpoint</h1>
+  Methods for collection TestCollection (testData subscription) after you log in:
+ {{loginButtons align="left"}}
+  <ul>
+    <li>clearCollection - clears test collection</li>
+    <li>addDoc(options) - add testfield=options.value and docnum=options.docnum</li>
+    <li>deleteDoc(options) - delete options.id</li>
+    <li>updateDoc(options) - update options.id doc with testfield=options.value and testarray.val1=options.value</li>
+  </ul>
+</template>
+
