@@ -12,3 +12,4 @@ https://github.com/properapp/whatwhen.git
 https://github.com/SachaG/Telescope.git
 https://github.com/tmeasday/meteor-router.git
 https://github.com/peerlibrary/peerlibrary.git
+https://github.com/kenyee/meteor-test-ddp-endpoint.git
