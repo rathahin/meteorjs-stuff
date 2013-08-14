@@ -17,11 +17,17 @@
 
 ## Resources:
   - https://github.com/EventedMind
+  - http://docs.meteor.com/
+  - https://twitter.com/meteorjs
 
+
+## UI
+  - [David Greenspan: Meteor UI - Reactive Components](http://www.youtube.com/watch?v=pGQ-ax5cFnk)
 
 ## Security:
   - http://security-resources.meteor.com/
   - http://www.slideshare.net/emilystark/meteor-meets-mallory
+  - [Emily Stark: Meteor Meets Mallory -- Devshop 6 Tech Talk](http://www.youtube.com/watch?v=79uMp-S23MA)
 
 
 
