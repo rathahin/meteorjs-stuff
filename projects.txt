@@ -9,3 +9,4 @@ https://github.com/PasDeChocolat/LiveBus.git
 https://github.com/tmeasday/meteor-router.git
 https://github.com/DiscoverMeteor/Microscope.git
 https://github.com/oortcloud/unofficial-meteor-faq.git
+https://github.com/SachaG/Telescope.git

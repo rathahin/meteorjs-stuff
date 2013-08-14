@@ -25,6 +25,13 @@
 ## UI
   - [David Greenspan: Meteor UI - Reactive Components](http://www.youtube.com/watch?v=pGQ-ax5cFnk)
 
+## Tutorials
+  - https://tutsplus.com/course/building-single-page-web-application-with-meteor-js/
+  - http://net.tutsplus.com/tutorials/javascript-ajax/building-ribbit-in-meteor/
+  - http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/
+
+## Slides:
+  - http://www.slideshare.net/hotrannam/building-real-time-web-apps-with-meteor
 
 
 ## Examples
