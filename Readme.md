@@ -8,6 +8,7 @@
   - http://www.slideshare.net/hotrannam/building-real-time-web-apps-with-meteor
   - [Build Your Own Trello](http://www.slideshare.net/daikeren/build-your-own-trello)
   - [Instant web applications with Meteor](http://www.ibm.com/developerworks/web/library/wa-meteor-webapps/index.html)
+  - [Develop easy real-time websites with Meteor, 2013.01](http://www.ibm.com/developerworks/web/library/wa-meteor/index.html)
   - [Getting chatty with Meteor.js](http://12devs.co.uk/articles/getting-chatty-with-meteor-js/)
 
 
