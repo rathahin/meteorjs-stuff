@@ -34,7 +34,7 @@
   - [David Greenspan: Meteor UI - Reactive Components](http://www.youtube.com/watch?v=pGQ-ax5cFnk)
 
 
-## Performance/Scaling:
+### Performance/Scaling:
   - http://meteorhacks.com/lets-scale-meteor.html
 
 
@@ -43,11 +43,8 @@
   - https://www.eventedmind.com/posts/meteor-liveresultsset
 
 
-
 ### Books
   - http://www.discovermeteor.com/packages
-
-
 
 
 
