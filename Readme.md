@@ -11,6 +11,8 @@
 
 
 ### Resources:
+  - http://yauh.de/articles/376/best-learning-resources-for-meteorjs
+  - http://wellroundedgent.com/the-making-of-whatwhen-thoughts-on-meteor-and-learning-resources/
   - https://www.eventedmind.com/posts/
   - http://meteorhacks.com/
   - https://github.com/EventedMind
