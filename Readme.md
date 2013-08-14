@@ -7,6 +7,7 @@
   - http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/
   - http://www.slideshare.net/hotrannam/building-real-time-web-apps-with-meteor
   - [Build Your Own Trello](http://www.slideshare.net/daikeren/build-your-own-trello)
+  - [Instant web applications with Meteor](http://www.ibm.com/developerworks/web/library/wa-meteor-webapps/index.html)
 
 
 ### Resources:
