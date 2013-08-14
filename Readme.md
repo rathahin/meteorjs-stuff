@@ -20,6 +20,7 @@
   - http://docs.meteor.com/
   - https://twitter.com/meteorjs
   - [Packages - Atmosphere](https://atmosphere.meteor.com/)
+  - [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq.git)
 
 ## UI
   - [David Greenspan: Meteor UI - Reactive Components](http://www.youtube.com/watch?v=pGQ-ax5cFnk)

@@ -8,3 +8,4 @@ https://github.com/mcrider/azimuth.git
 https://github.com/PasDeChocolat/LiveBus.git
 https://github.com/tmeasday/meteor-router.git
 https://github.com/DiscoverMeteor/Microscope.git
+https://github.com/oortcloud/unofficial-meteor-faq.git
