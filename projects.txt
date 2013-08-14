@@ -1,3 +1,4 @@
+https://github.com/alanning/meteor-load-test.git
 https://github.com/alanning/meteor-roles.git
 https://github.com/bmcmahen/cast.git
 https://github.com/bmcmahen/Subtitles.git
@@ -5,4 +6,3 @@ https://github.com/EventedMind/meteor-iron-router.git
 https://github.com/Exygy/minimongoid.git
 https://github.com/mcrider/azimuth.git
 https://github.com/tmeasday/meteor-router.git
-https://github.com/alanning/meteor-load-test.git
