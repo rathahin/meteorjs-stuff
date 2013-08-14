@@ -1,0 +1,56 @@
+{
+  "meteor": {
+    "git": "https://github.com/meteor/meteor.git",
+    "branch": "master",
+    "commit": "9bb2b5447e845c4f483df5e9b42a2c1de5ab909b"
+  },
+  "dependencies": {
+    "basePackages": {
+      "router": {},
+      "momentjs": {},
+      "database-forms": {
+        "git": "git://github.com/SachaG/database-forms.git",
+        "branch": "master"
+      },
+      "paginated-subscription": {},
+      "crypto-md5": {}
+    },
+    "packages": {
+      "router": {
+        "git": "https://github.com/tmeasday/meteor-router.git",
+        "tag": "v0.5.3",
+        "commit": "7bd3a1bdd1099625bb8b49406d9b8f961d6f4a17"
+      },
+      "momentjs": {
+        "git": "https://github.com/crapthings/meteor-momentjs.git",
+        "tag": "v2.1.0",
+        "commit": "f421f51c2cb40093374a83adb932937da2f991d3"
+      },
+      "database-forms": {
+        "git": "git://github.com/SachaG/database-forms.git",
+        "branch": "master",
+        "commit": "d2cc5b14f80d7985e33b9066b222e0e86e088095"
+      },
+      "paginated-subscription": {
+        "git": "https://github.com/tmeasday/meteor-paginated-subscription.git",
+        "tag": "v0.1.2",
+        "commit": "35e0c6112df2b4cfeb60b559276a93cac5ee2dd6"
+      },
+      "crypto-md5": {
+        "git": "https://github.com/tmeasday/meteor-crypto-md5.git",
+        "tag": "v0.0.1",
+        "commit": "a0638a6cabfc84e19f2d5828f76aa8f6a0cc8c1a"
+      },
+      "page-js-ie-support": {
+        "git": "https://github.com/tmeasday/meteor-page-js-ie-support.git",
+        "tag": "v1.3.5",
+        "commit": "b99ed8380aefd10b2afc8f18d9eed4dd0d8ea9cb"
+      },
+      "crypto-base": {
+        "git": "https://github.com/tmeasday/meteor-crypto-base.git",
+        "tag": "v0.0.2",
+        "commit": "f0dceae8493cabfff06af60bbeb11223d36fdae8"
+      }
+    }
+  }
+}
