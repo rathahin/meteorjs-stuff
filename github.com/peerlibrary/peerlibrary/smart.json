@@ -1,0 +1,21 @@
+{
+  "meteor": {
+    "branch": "peerlibrary",
+    "git": "https://github.com/peerlibrary/meteor.git"
+  },
+  "packages": {
+    "router": {},
+    "pdf.js": {},
+    "jquery-ui": {},
+    "assert": {},
+    "aws-sdk": {},
+    "tar": {},
+    "blocking": {},
+    "moment": {},
+    "xml2js": {},
+    "util": {},
+    "dimsum": {},
+    "connect": {},
+    "urlify2": {}
+  }
+}
