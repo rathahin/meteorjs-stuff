@@ -26,6 +26,10 @@
 
 
 
+## Examples
+  - [Build Your Own Trello](http://www.slideshare.net/daikeren/build-your-own-trello)
+
+
 ## Security:
   - http://security-resources.meteor.com/
   - http://www.slideshare.net/emilystark/meteor-meets-mallory
