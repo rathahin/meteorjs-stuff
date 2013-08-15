@@ -15,3 +15,4 @@ https://github.com/peerlibrary/peerlibrary.git
 https://github.com/kenyee/meteor-test-ddp-endpoint.git
 https://github.com/awatson1978/forms-kitchen-sink.git
 https://github.com/awatson1978/meteor-cookbook.git
+https://github.com/crazytoad/meteor-collectionapi.git
