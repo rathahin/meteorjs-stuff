@@ -19,3 +19,4 @@ https://github.com/tmeasday/meteor-router.git
 https://github.com/arunoda/laika.git
 https://github.com/boundsj/ObjectiveDDP.git
 https://github.com/bjryan2/Ruby_DDP_Client.git
+https://github.com/CharlesHolbrow/PixelAether.git
