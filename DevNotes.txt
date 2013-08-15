@@ -1,0 +1,18 @@
+Places Dependent on Chunk/Tile size in pixels:
+ChunkRenderer - render and init methods
+World - simToWorld and init
+
+Goal:
+Universal Method of getting pixel dimensions of chunk. 
+I like Individual Chunks being able to figure out their own based on the tilesize
+the problem is that if gGame.tileset CHANGES, this will not trigger an update... actually that's not really a problem --  we are rendering every frame anyway. No! not true -- only the position of chunks renders every frame. 
+
+The current implementation will not trigger an update if we change the object that gGame.map points to for that, we would need to use something like gGame.setMap()
+ 
+Solutions: 
+  Search for and remove old references to gGame.tileset and gGame.map. remove from gGame
+  Find and remove references to gGame.view.canvas.height and .width, replace with view.size.get()
+
+Hacks to fix:
+  fix Drag Input Method, so it checks for a distance. 
+
