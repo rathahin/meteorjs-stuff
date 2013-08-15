@@ -10,6 +10,7 @@
   - [Instant web applications with Meteor](http://www.ibm.com/developerworks/web/library/wa-meteor-webapps/index.html)
   - [Develop easy real-time websites with Meteor, 2013.01](http://www.ibm.com/developerworks/web/library/wa-meteor/index.html)
   - [Getting chatty with Meteor.js](http://12devs.co.uk/articles/getting-chatty-with-meteor-js/)
+  - [Building an RSS Reader With Meteor, 2013.06](http://midnightcheese.com/2013/06/building-an-rss-reader-with-meteor/)
 
 
 ### Resources:
@@ -27,6 +28,8 @@
 
   - [MeteorVideos Channel](http://www.youtube.com/user/MeteorVideos/videos)
   - [Scaling Meteor with Smart Collections](http://www.youtube.com/watch?v=ctSd9VXvp_0)
+  - [TakeOff 2013 - Meteor.JS - Geoff Schmidt](http://www.youtube.com/watch?v=4mtLCjhxKAs&utm_source=buffer&buffer_share=a441c)
+  - [Michael Risse: Sharing Your Command Line With DDP](http://www.youtube.com/watch?v=qexFb1rPrr4)
 
 
 ### Security:
@@ -50,6 +53,7 @@
 
 
 ### Posts:
+  - [9 Real Example Apps](http://skimbox.co/blog/meteor-showers-10-meteor-powered-apps-that-rock#.UdWHVD6gmrc)
   - http://meteorhacks.com/introducing-smart-collections.html
   - https://www.eventedmind.com/posts/meteor-liveresultsset
 
