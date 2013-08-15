@@ -1,0 +1,11 @@
+canvas{
+	background-color: gray;
+}
+
+div#content {
+	/*background-color: #d0d0d0;*/
+}
+
+html * {
+	font-family: "Courier New";
+}
