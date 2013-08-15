@@ -44,6 +44,7 @@
 
 ### Testing
   - [How to use Laika testing framework for Meteor on Ubuntu 13.04](http://task3.cc/1880/how-to-use-laika-testing-framework-for-meteor-on-ubuntu-13-04/)
+  - [Sam Hatoum: Test Driven Development using Meteor - Devshop 4](https://www.youtube.com/watch?v=Ac9ou9Vi0q8)
 
 
 ### SEO
