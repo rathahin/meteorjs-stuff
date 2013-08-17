@@ -20,3 +20,4 @@ https://github.com/arunoda/laika.git
 https://github.com/boundsj/ObjectiveDDP.git
 https://github.com/bjryan2/Ruby_DDP_Client.git
 https://github.com/CharlesHolbrow/PixelAether.git
+https://github.com/awwx/meteor-wiki.git
