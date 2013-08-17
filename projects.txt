@@ -3,6 +3,7 @@ https://github.com/alanning/meteor-roles.git
 https://github.com/arunoda/laika.git
 https://github.com/awatson1978/forms-kitchen-sink.git
 https://github.com/awatson1978/meteor-cookbook.git
+https://github.com/awwx/meteor-mongo-counter.git
 https://github.com/bjryan2/Ruby_DDP_Client.git
 https://github.com/bmcmahen/cast.git
 https://github.com/bmcmahen/Subtitles.git
@@ -20,7 +21,6 @@ https://github.com/oortcloud/unofficial-meteor-faq.git
 https://github.com/PasDeChocolat/LiveBus.git
 https://github.com/peerlibrary/peerlibrary.git
 https://github.com/properapp/whatwhen.git
+https://github.com/raix/Meteor-GroundDB.git
 https://github.com/SachaG/Telescope.git
 https://github.com/tmeasday/meteor-router.git
-https://github.com/raix/Meteor-GroundDB.git
-https://github.com/awwx/meteor-mongo-counter.git
