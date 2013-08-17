@@ -172,9 +172,13 @@
       An app I wrote for freelancers to help with managing project timelines.
        1 commits, last change: 2013-06-12 14:40:08, 13 stars, 0 forks
 
-    raix/Meteor-GroundDBope:
+    raix/Meteor-GroundDB:
+      GroundDB is a thin layer providing Meteor offline database and methods
+       52 commits, last change: 2013-07-29 05:48:39, 7 stars, 2 forks
 
-        commits, last change: ,  stars,  forks
+    SachaG/Telescope:
+      HN clone built in Meteor
+       708 commits, last change: 2013-07-25 01:14:48, 1,088 stars, 286 forks
 
     tmeasday/meteor-router:
 
