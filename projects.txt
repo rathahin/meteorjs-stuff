@@ -15,10 +15,10 @@ https://github.com/Exygy/minimongoid.git
 https://github.com/gkoberger/meteor-reststop.git
 https://github.com/kenyee/meteor-test-ddp-endpoint.git
 https://github.com/mcrider/azimuth.git
+https://github.com/meteor/meteor.wiki.git
 https://github.com/oortcloud/unofficial-meteor-faq.git
 https://github.com/PasDeChocolat/LiveBus.git
 https://github.com/peerlibrary/peerlibrary.git
 https://github.com/properapp/whatwhen.git
 https://github.com/SachaG/Telescope.git
 https://github.com/tmeasday/meteor-router.git
-https://github.com/meteor/meteor.wiki.git
