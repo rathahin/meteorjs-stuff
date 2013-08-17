@@ -1,0 +1,1 @@
+Our [contributor guidelines](https://github.com/meteor/meteor/blob/devel/Contributing.md) now live in our project repository.
