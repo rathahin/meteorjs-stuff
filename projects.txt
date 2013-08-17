@@ -23,3 +23,4 @@ https://github.com/properapp/whatwhen.git
 https://github.com/SachaG/Telescope.git
 https://github.com/tmeasday/meteor-router.git
 https://github.com/raix/Meteor-GroundDB.git
+https://github.com/awwx/meteor-mongo-counter.git
