@@ -136,6 +136,10 @@
 
        106 commits, last change: 2013-08-12 20:23:38, 30 stars, 2 forks
 
+    EventedMind/meteor-iron-router:
+
+       106 commits, last change: 2013-08-12 20:23:38, 30 stars, 2 forks
+
     Exygy/minimongoid:
       Mongoid inspired model architecture for your Meteor apps.
        16 commits, last change: 2013-07-30 15:58:36, 6 stars, 0 forks
