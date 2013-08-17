@@ -1,0 +1,22 @@
+If you don't see your platform on the list, consider contributing or filing issues for whatever needs to be done to support your operating system.
+
+## Mac and Linux Officially Supported
+
+Currently, Meteor is officially supported on the following platforms:
+* Mac: OS X 10.6 and above
+* Linux: x86 and x86_64 systems (as of 0.6.0, we no longer limit our Linux support to Debian- and RedHat-based systems)
+
+
+## State of Windows support
+
+[Official Windows support is coming](https://trello.com/card/official-windows-support/508721606e02bb9d570016ae/11). 
+
+In the meantime, Windows users are encouraged to use the unofficial Windows installer for Meteor at http://win.meteor.com/.  Huge thanks to Tom Wijsman for his work on this.
+
+Please contribute to bringing official Windows support to Meteor:
+* Report Windows-related bugs at https://github.com/TomWij/meteor/issues.
+* Test the unofficial Windows installer on various versions of Windows, and report back on how it goes.
+* If you have experience with cross-platform development, we could particularly use your help:
+    * Review the code at https://github.com/TomWij/meteor
+    * Make incremental improvements and submit pull requests to TomWij's fork for review
+    * Read [this thread](https://github.com/meteor/meteor/pull/291) for some starter ideas about what you can help with
