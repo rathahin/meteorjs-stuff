@@ -93,10 +93,6 @@
       Additional sections to add to the unofficial-meteor-faq
        117 commits, last change: 2013-08-10 18:42:28, 19 stars, 1 forks
 
-    awwx/meteor-wiki:
-      manual clone of git://github.com/meteor/meteor.wiki.git
-       173 commits, last change: 2013-02-22 16:30:19, 0 stars, 0 forks
-
     bjryan2/Ruby_DDP_Client:
       A simple DDP client written in ruby
        7 commits, last change: 2013-05-26 20:37:35, 0 stars, 0 forks
@@ -144,6 +140,10 @@
     mcrider/azimuth:
       Azimuth is a simple, elegant, and fast CMS built using meteor.js.
        141 commits, last change: 2013-07-19 01:33:02, 80 stars, 19 forks
+
+    meteor/meteor.wiki:
+
+        commits, last change: ,  stars,  forks
 
     oortcloud/unofficial-meteor-faq:
 
