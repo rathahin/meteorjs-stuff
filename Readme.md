@@ -61,6 +61,9 @@
   - http://meteorhacks.com/lets-scale-meteor.html
 
 
+### Offline:
+  - [GroundDB](http://grounddb.meteor.com/)
+
 ### Posts:
   - [9 Real Example Apps](http://skimbox.co/blog/meteor-showers-10-meteor-powered-apps-that-rock#.UdWHVD6gmrc)
   - http://meteorhacks.com/introducing-smart-collections.html
