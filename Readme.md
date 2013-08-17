@@ -69,6 +69,8 @@
 
 ### Books
   - http://www.discovermeteor.com/packages
+  - [Let's Create a Realtime Blackboard - MeteorHacks Publication](http://meteorhacks.com/realtime-blackboard.html) [PDF](https://www.dropbox.com/s/0ywsu2ru7gsf8q5/lets-create-a-realtime-blackboard.pdf)
+
 
 
 
