@@ -136,10 +136,6 @@
 
        106 commits, last change: 2013-08-12 20:23:38, 30 stars, 2 forks
 
-    EventedMind/meteor-iron-router:
-
-       106 commits, last change: 2013-08-12 20:23:38, 30 stars, 2 forks
-
     Exygy/minimongoid:
       Mongoid inspired model architecture for your Meteor apps.
        16 commits, last change: 2013-07-30 15:58:36, 6 stars, 0 forks
@@ -176,13 +172,9 @@
       An app I wrote for freelancers to help with managing project timelines.
        1 commits, last change: 2013-06-12 14:40:08, 13 stars, 0 forks
 
-    raix/Meteor-GroundDB:
-      GroundDB is a thin layer providing Meteor offline database and methods
-       52 commits, last change: 2013-07-29 05:48:39, 7 stars, 2 forks
+    raix/Meteor-GroundDBope:
 
-    SachaG/Telescope:
-      HN clone built in Meteor
-       708 commits, last change: 2013-07-25 01:14:48, 1,088 stars, 286 forks
+        commits, last change: ,  stars,  forks
 
     tmeasday/meteor-router:
 
