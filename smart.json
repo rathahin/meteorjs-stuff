@@ -1,0 +1,16 @@
+{
+  "meteor": {},
+  "packages": {
+    "momentjs": {},
+    "crypto-base": {},
+    "database-forms": {
+      "git": "git://github.com/SachaG/database-forms.git"
+    },
+    "crypto-md5": {},
+    "iron-router": {},
+    "nprogress": {},
+    "fast-render": {
+      "git": "git://github.com/arunoda/meteor-fast-render.git"
+    }
+  }
+}
