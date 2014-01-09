@@ -91,9 +91,17 @@
       Roles-based authorization package for Meteor, compatible with built-in accounts packages
        65 commits, last change: 2013-08-03 01:56:55, 55 stars, 7 forks
 
+    arunoda/fast-render-telescope:
+      Telescope with Fast Render
+       943 commits, last change: 2013-12-27 07:52:25, 1 stars, 0 forks
+
     arunoda/laika:
       testing framework for meteor
        158 commits, last change: 2013-08-13 06:14:55, 71 stars, 10 forks
+
+    arunoda/meteor-fast-render:
+      FastRender loads your Meteor app faster
+       44 commits, last change: 2014-01-09 11:52:18, 17 stars, 1 forks
 
     awatson1978/forms-kitchen-sink:
       Meteor app demonstrating form elements and Form API.
