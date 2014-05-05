@@ -85,113 +85,113 @@
 
     alanning/meteor-load-test:
       Load testing tool for Meteor applications
-       12 commits, last change: 2013-08-10 19:28:54, 19 stars, 0 forks
+       33 commits, last change: , 93 stars, 5 forks
 
     alanning/meteor-roles:
       Roles-based authorization package for Meteor, compatible with built-in accounts packages
-       65 commits, last change: 2013-08-03 01:56:55, 55 stars, 7 forks
+       116 commits, last change: , 143 stars, 30 forks
 
     arunoda/fast-render-telescope:
-      Telescope with Fast Render
-       943 commits, last change: 2013-12-27 07:52:25, 1 stars, 0 forks
+      Telescope with Fast Render (using for fast-render QA)
+       964 commits, last change: , 2 stars, 0 forks
 
     arunoda/laika:
       testing framework for meteor
-       158 commits, last change: 2013-08-13 06:14:55, 71 stars, 10 forks
+       197 commits, last change: , 184 stars, 28 forks
 
     arunoda/meteor-fast-render:
-      FastRender loads your Meteor app faster
-       44 commits, last change: 2014-01-09 11:52:18, 17 stars, 1 forks
+      Fast Render improves the initial load time of your app and gives you 2-10 times faster page loads
+       144 commits, last change: , 76 stars, 9 forks
 
     awatson1978/forms-kitchen-sink:
       Meteor app demonstrating form elements and Form API.
-       22 commits, last change: 2013-06-14 09:40:06, 2 stars, 0 forks
+       30 commits, last change: , 9 stars, 1 forks
 
     awatson1978/meteor-cookbook:
       Additional sections to add to the unofficial-meteor-faq
-       117 commits, last change: 2013-08-10 18:42:28, 19 stars, 1 forks
+       1,213 commits, last change: , 288 stars, 34 forks
 
     awwx/meteor-mongo-counter:
       Atomic counters stored in MongoDB.
-       17 commits, last change: 2013-08-08 08:59:57, 1 stars, 0 forks
+       19 commits, last change: , 4 stars, 1 forks
 
     bjryan2/Ruby_DDP_Client:
       A simple DDP client written in ruby
-       7 commits, last change: 2013-05-26 20:37:35, 0 stars, 0 forks
+       7 commits, last change: , 0 stars, 0 forks
 
     bmcmahen/cast:
-      For creating animated grid layouts given an array of attributes.
-       30 commits, last change: 2013-05-03 09:54:23, 5 stars, 0 forks
+      Create animated grid layouts given an array of attributes.
+       48 commits, last change: , 33 stars, 4 forks
 
     bmcmahen/Subtitles:
       Easily create subtitles (SRT files) in your web browser.
-       72 commits, last change: 2013-05-17 13:50:33, 55 stars, 10 forks
+       75 commits, last change: , 81 stars, 15 forks
 
     boundsj/ObjectiveDDP:
       Making it easy for your Objective-C apps to communicate with your Meteor.js apps since 2013.
-       115 commits, last change: 2013-08-13 07:31:38, 54 stars, 5 forks
+       246 commits, last change: , 179 stars, 23 forks
 
     CharlesHolbrow/PixelAether:
       Javascript Game Map Engine built on Meteor
-       78 commits, last change: 2013-07-11 12:25:54, 15 stars, 0 forks
+       129 commits, last change: , 16 stars, 0 forks
 
     crazytoad/meteor-collectionapi:
       Meteor Collection RESTful API
-       36 commits, last change: 2013-07-12 13:27:17, 124 stars, 21 forks
+       42 commits, last change: , 225 stars, 33 forks
 
     DiscoverMeteor/Microscope:
       The Discover Meteor book's example app.
-       45 commits, last change: 2013-04-08 05:29:24, 58 stars, 33 forks
+       50 commits, last change: , 194 stars, 138 forks
 
     EventedMind/meteor-iron-router:
-
-       106 commits, last change: 2013-08-12 20:23:38, 30 stars, 2 forks
+      A client and server side router designed specifically for Meteor.
+       552 commits, last change: , 601 stars, 132 forks
 
     Exygy/minimongoid:
       Mongoid inspired model architecture for your Meteor apps.
-       16 commits, last change: 2013-07-30 15:58:36, 6 stars, 0 forks
+       38 commits, last change: , 37 stars, 12 forks
 
     gkoberger/meteor-reststop:
       A (currently super-still-in-alpha) way to create a RESTful API using Meteor
-       27 commits, last change: 2013-06-10 16:52:51, 5 stars, 2 forks
+       29 commits, last change: , 7 stars, 2 forks
 
     kenyee/meteor-test-ddp-endpoint:
       This is an endpoint for testing the Meteor.js DDP protocol from DDP client libraries
-       6 commits, last change: 2013-08-01 08:41:56, 0 stars, 0 forks
+       7 commits, last change: , 0 stars, 0 forks
 
     mcrider/azimuth:
       Azimuth is a simple, elegant, and fast CMS built using meteor.js.
-       141 commits, last change: 2013-07-19 01:33:02, 80 stars, 19 forks
+       169 commits, last change: , 185 stars, 44 forks
 
     meteor/meteor.wiki:
 
         commits, last change: ,  stars,  forks
 
     oortcloud/unofficial-meteor-faq:
-
-       71 commits, last change: 2013-07-03 23:45:11, 210 stars, 20 forks
+      The unofficial Meteor FAQ
+       107 commits, last change: , 408 stars, 45 forks
 
     PasDeChocolat/LiveBus:
-      Real-time mapping of the bus routes.
-       26 commits, last change: 2013-07-20 23:38:28, 9 stars, 5 forks
+      Real-time mapping of Honolulu's TheBus routes and vehicle locations.
+       29 commits, last change: , 27 stars, 8 forks
 
     peerlibrary/peerlibrary:
-      Enriching the experience of open access scholarly literature
-       246 commits, last change: 2013-08-13 18:36:06, 35 stars, 8 forks
+      Facilitating the global conversation on academic literature
+       1,767 commits, last change: , 88 stars, 19 forks
 
     properapp/whatwhen:
       An app I wrote for freelancers to help with managing project timelines.
-       1 commits, last change: 2013-06-12 14:40:08, 13 stars, 0 forks
+       2 commits, last change: , 30 stars, 4 forks
 
     raix/Meteor-GroundDB:
       GroundDB is a thin layer providing Meteor offline database and methods
-       52 commits, last change: 2013-07-29 05:48:39, 7 stars, 2 forks
+       90 commits, last change: , 49 stars, 12 forks
 
     SachaG/Telescope:
       HN clone built in Meteor
-       708 commits, last change: 2013-07-25 01:14:48, 1,088 stars, 286 forks
+       997 commits, last change: , 1,561 stars, 513 forks
 
     tmeasday/meteor-router:
 
-       158 commits, last change: 2013-08-05 16:12:52, 321 stars, 66 forks
+       171 commits, last change: , 369 stars, 80 forks
 <!-- PROJECTS_LIST_END -->
